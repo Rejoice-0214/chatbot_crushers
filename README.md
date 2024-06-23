@@ -32,3 +32,11 @@ Farewell Statements: Predefined responses for user farewells.
 
 10. Conversation History
 Another file is created to store the history of the conversation for tracking and analysis.
+
+Conclusion
+This chatbot project successfully implements a system that can process user inputs, compute similarity scores to find the most relevant response, and manage conversation history. The use of Python 3.11 and key libraries such as nltk, TfidfVectorizer, cosine similarity, and pandas ensures efficient and accurate text processing and vectorization. The implementation also includes functionality for handling greetings and farewells, enhancing the user experience.
+
+
+
+
+
